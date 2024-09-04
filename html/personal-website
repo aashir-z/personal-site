@@ -1,13 +1,13 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Blog</title>
+    <title>Aashir Zaidi</title>
     <link rel="stylesheet" href="css/styles.css">
     <script src="js/scripts.js" defer></script>
 </head>
 <body>
+    <h1>Aashir Zaidi</h1>
+    <p>Welcome to my site.</p>
     <div id="nav-placeholder"></div>
-    <h1>Blog</h1>
-    <p>Here is where I aim to post about diferent stuff that interests me.</p>
 </body>
 </html>
